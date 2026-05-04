@@ -1,0 +1,9 @@
+what we learn today
+ECMAScript (ES) is a standard scripting lanuage, established by Ecma to insure cross browser compatiblity.
+React us ESX very close to ES. 
+we learn about basic of 
+1. const / let
+2. arrow function
+3. foreach
+4. map
+5. filter
