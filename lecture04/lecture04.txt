@@ -1,0 +1,15 @@
+what we learn today
+Create React App
+npm create-react-app my-app (outdated)
+npm create vite@latest my-app (latest)
+When we use vite@latest uses modern toolsets behind the scene
+1. esbuild to develop server 
+    bundle assets
+    bundle styles
+    bundle scripts
+    bundle images
+    Instead of weback which is javascript bundler
+2. esbuild transpile/compile javascript and typescript which is 100% faster than bible
+
+
+
