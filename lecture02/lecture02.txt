@@ -1,0 +1,7 @@
+what we learn today
+
+spread operator
+destructure / destructuring
+
+
+
