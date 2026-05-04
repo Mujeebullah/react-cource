@@ -1,0 +1,19 @@
+what we learn today
+we look some of the files that are included when generate React App
+
+1. package.json file
+    1.  This file have have information about our app
+    2.  dependencies need our app to run properly
+    3.  scripts section keys are used with npm command, for run your app in development mode,
+        production mode, preview mode, build application for distrubution
+    4.  devDependencies shows us the package required only during the development mode and testing mode
+
+2.  index.html this file is entry point of entire React application
+3.  node_modules, this folder have all modules needed to run React App.
+4.  We use React Functional Components throught out this cource. this is the recommended approach.
+5.  JSX. Javascript XML is an extended syntax system for javascript used with React to describe UI structure using HTML code directly within javascript file.
+5.  **Final** Now time to read, view, watch, edit, update of App.jsx Component File to understand how does this work and    how React App work after make changes
+
+
+
+
