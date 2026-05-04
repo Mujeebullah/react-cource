@@ -1,0 +1,37 @@
+what we learn today
+Create first Component in React
+Example 1.
+
+function Contact(){
+    return (
+        <div>
+            <h4>Mujeebullah Khan</h4>
+            <ul>
+                <li>Email: khan@gmail.com</li>
+                <li>Phone: 03336702489</li>
+            </ul>
+        </div>
+    )
+}
+
+export default Contact
+
+Example 2.
+
+const Header = () => {
+ return(
+    <div>
+    <h4>Header</h4>    
+    </div>
+ )   
+}
+
+export default Header
+
+
+
+
+
+
+
+
