@@ -1,0 +1,21 @@
+install nodejs
+searh on browser or use below link use life time support version / latest
+https://nodejs.org/en
+
+install extenstions for browser
+React Developer Tool
+Redux DevTools
+
+VScode editor
+Braket pair colorize extenstion for 
+VS Code ES7+ React/Redux/React-Native/JS snippets
+Live Server
+Prettier Code Formatter
+
+Settings:
+"editor.formatOnSave": true
+"files.autoSave": "afterDelay"
+"editor.formatOnSave": true
+
+
+

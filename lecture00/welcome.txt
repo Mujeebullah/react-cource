@@ -1,0 +1,8 @@
+Welcome to React Course
+This is an intermediate couse suitalbe for biginners
+React javascript library framework along with new [Context Api] and [redux state management]
+Components we would see in this Course
+1. html/css (css not so important)
+2. javascript fundamentals
+3. basic programming principles
+4. Bootstap framwork (not needed but give us beautiful desing template)

@@ -1,0 +1,19 @@
+What is React
+React is a client side javascript library, when it says client side it runs on client machine not on server
+It is often called as framework
+Created and maintained by Facebook
+Used to build dynamic user interface
+Runs every thing as "Component"
+Compareable with Others [ Angular, Vue, jQuery]
+
+
+Why should learn React
+Easy to learn mean make javascript easier for you
+Organize User interface 
+Reuseablity of Components
+Scaleabel & Efficient *
+Lighter than other frameworks *
+*****GET A JOB****
+
+
+
