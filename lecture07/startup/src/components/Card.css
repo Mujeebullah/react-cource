@@ -1,0 +1,82 @@
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 350px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #fff;
+    justify-content: space-between;
+}
+.card .top{    
+    display: flex;    
+    align-items: center;
+    justify-content: space-between;
+}
+
+.top img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid #ebeaea;
+    padding: 2px;
+}
+
+.top button{
+    display: flex;
+    align-items: center;
+    border: 1px solid #dadada;
+    padding: 8px 8px;
+    font-size: 14px;
+    border-radius: 5px;
+    color: #979797;
+    background-color: transparent;
+}
+
+.card .bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #b1b1b1;
+    padding: 15px 0;    
+}
+.bottom button{    
+    font-weight: bold;
+    background-color: #222020;
+    color: white;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: 12px;    
+}
+.card .center h3{
+    font-weight: 800;
+    padding: 10px 0;
+}
+
+.card .center h3 span{
+    font-weight: 600;
+    color: #bababa;
+    padding: 0 10px;    
+}
+.card .center h2 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #222020;
+    padding: 10px 0;
+}
+.card .center div{
+    display: flex;
+    align-items: center;
+}
+
+.card .center div h4{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ececec;
+}
+.card .center div h4:last-child{
+    margin-left: 20px;
+}
