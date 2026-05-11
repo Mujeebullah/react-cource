@@ -1,0 +1,7 @@
+what we learn today
+
+make another ReactApp
+How to install and use bootstrap framework in Ractjs
+npm install react-bootstrap bootstrap
+
+what is function in reactjs / javascript

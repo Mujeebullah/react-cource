@@ -37,6 +37,8 @@ Outlines
 15. Two way binding
     two way data binding basically used to manange inputs
 
+16. Notes Application
+
 
 
 
