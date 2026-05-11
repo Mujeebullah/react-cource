@@ -1,0 +1,6 @@
+what we learn today
+
+make another ReactApp
+How to install and use bootstrap framework in Ractjs
+What is properties and how can we pass those properties to Child Component from Parent Component
+Some work on tailwind css
