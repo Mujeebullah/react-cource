@@ -1,0 +1,26 @@
+what we learn today
+
+some greate methods of javascript to make development easy
+
+1. Maximum value from an array
+2. Mininum value from an array
+3. get max string from an string array
+4. Find biggest number from nested array
+5. create an array group by city from another object of array
+6. sort elements of array in ascending order
+7. sort elements of array in decending order
+8. what is flat function in javascript
+9. what is map function
+10. what is filter function
+10. what is flatMap function
+
+
+
+
+
+
+
+
+    
+
+what is function in reactjs / javascript
