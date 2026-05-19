@@ -1,0 +1,6 @@
+what we learn today
+
+make another ReactApp
+what is localStorage 
+what is sesssionStorage
+example in reactjs (light & dark theme)
