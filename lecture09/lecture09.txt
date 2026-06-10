@@ -5,9 +5,6 @@ How to install and use bootstrap framework in Ractjs
 npm install react-bootstrap bootstrap
     Container set max-width at each responsive breakpoints
     Conatiner-[breakpoint] -  set Container width 100% until the specific breakpoint
-    Container-fluid - set width 100% at all breakpoints
-
-
-    
+    Container-fluid - set width 100% at all breakpoints    
 
 what is function in reactjs / javascript

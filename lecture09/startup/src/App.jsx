@@ -77,10 +77,10 @@ const App = () => {
             </Form>
           </Col>
           <Col className='d-flex col-8'>
-            <Row className='p-3 h-100 w-100 p3 gap-4'>
+            <Row className='p-3 gap-4'>
               {noteList.map((element, index) => {
                 return (
-                  <div className='d-flex flex-column' style={{
+                  <div className='d-flex flex-column' key={`key-${index}`} style={{
                     backgroundImage: `url(${note_without_background})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat',
                     backgroundPosition: 'center', width: '250px', height: '300px', border: 'none'
                   }}>

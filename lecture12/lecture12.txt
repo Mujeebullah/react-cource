@@ -1,0 +1,12 @@
+what we learn today
+
+make another ReactApp
+Frontend (Reatjs, Angular Framework, Nextjs, vue etc)
+Backend (Laravel Server, Java Server, Codignator)
+Database (Oracle, MySql, mysql, Mariadb, Sqlite, Postgres, Mongodb etc)
+what is Api 
+fake api site jsonplaceholder
+
+example of using front end api in react js 
+1. using fetch method
+2. using axios method
